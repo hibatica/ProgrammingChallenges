@@ -8,27 +8,16 @@ practices here, but I'm sure you could learn something!
 
 ## Index
 1. [Reproducing common programs, services, algorithms, etc](#reproducing-common-programs-services-algorithms-etc)
-
     * [Algorithms](#algorithms)
-
     * [Automating Tasks](#automating-tasks)
-
     * [Building APIs](#building-apis)
-
     * [Common Problems](#common-problems)
-
     * [Common Projects](#common-projects)
-
     * [Databases](#database-management)
-
     * [Scaling, Porting and Format Conversion](#scaling-porting-and-format-conversion)
-
     * [Security and Cryptography](#security-and-cryptography)
-
     * [Working With APIs](#working-with-apis)
-
 2. [Programming Languages of Interest](#programming-languages-of-interest)
-
 3. [Programming Language Basics](#programming-language-basics)
 
 ---
