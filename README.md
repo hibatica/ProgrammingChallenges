@@ -1,6 +1,10 @@
 # ProgrammingChallenges
 
 > This is mostly a personal practice/demonstration repository. Feel free to reference it though!
+> If you're referring to this repository, know that I
+myself am learning as I go. Don't expect to see best
+practices here, but I'm sure you could learn something!
+
 
 ## Index
 1. [Reproducing common programs, services, algorithms, etc](#reproducing-common-programs-services-algorithms-etc)
