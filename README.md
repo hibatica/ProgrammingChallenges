@@ -253,3 +253,6 @@ To Do / Incomplete:
 
 ### SQL
 cool data stuff (todo)
+
+
+> By the way, the contributor named "poopopp" is me. I was just trying to get past "git config --global user.name" faster. Didn't realize that was public!
