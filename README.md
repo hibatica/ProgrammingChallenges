@@ -205,14 +205,12 @@ To Do / Incomplete:
 Completed:
 
 To Do / Incomplete:
-- [ ] Directories, create, delete, rename, etc.
-- [ ] Get user input
-- [ ] Hello World
-- [ ] If else statements
-- [ ] Read content of a file
-- [ ] Switch statements
-- [ ] Variables
-- [ ] Write to a file
+- [ ] Types
+- [x] Get user input
+- [x] Hello World
+- [x] If else statements
+- [x] Switch statements
+- [x] Import alias
 
 ### Java
 Completed:
