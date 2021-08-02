@@ -24,6 +24,43 @@
 ### Algorithms
 [[Top](#programmingchallenges)]
 
+#### Abstraction Algorithms
+[[Top](#programmingchallenges)]
+
+#### Backtracking Algorithms
+[[Top](#programmingchallenges)]
+
+#### Brute Force Algorithms
+[[Top](#programmingchallenges)]
+
+#### Compression and Expansion Algorithms
+[[Top](#programmingchallenges)]
+
+#### Data Parsing Algorithms
+[[Top](#programmingchallenges)]
+
+#### Divide and Conquer Algorithms
+[[Top](#programmingchallenges)]
+
+#### Greedy Algorithms
+[[Top](#programmingchallenges)]
+
+#### Hashing Algorithms
+[[Top](#programmingchallenges)]
+
+#### Randomness Algorithms
+[[Top](#programmingchallenges)]
+
+#### Recursive Algorithms
+[[Top](#programmingchallenges)]
+
+#### Search Algorithms
+[[Top](#programmingchallenges)]
+
+#### Sort Algorithms
+[[Top](#programmingchallenges)]
+
+
 ### Automating Tasks
 [[Top](#programmingchallenges)]
 
