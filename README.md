@@ -5,6 +5,7 @@
 myself am learning as I go. Don't expect to see best
 practices here, but I'm sure you could learn something!
 
+[Currently working in rewrite branch]
 
 ## Index
 1. [Reproducing common programs, services, algorithms, etc](#reproducing-common-programs-services-algorithms-etc)
